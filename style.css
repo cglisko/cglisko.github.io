@@ -28,11 +28,13 @@ margin: 10px;
 text-align: center;}
 
 .documents {font-color: whitesmoke;
+text-decoration: none;
 font-size: 2rem;
 margin: 10px;
 text-align: left;}
 
 .icons {font-color: whitesmoke;
+text-decoration: none;
 font-size: 2rem;
 margin: 10px;
 text-align: center;}
