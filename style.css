@@ -20,6 +20,7 @@ p {color: whitesmoke;
 .title {color: whitesmoke;
     font-size: 7rem;
     margin: 10px;
+    text-align: center;
 }
 .subtitle {color: whitesmoke;
 font-size: 5rem;
