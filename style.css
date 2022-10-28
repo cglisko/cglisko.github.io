@@ -1,8 +1,4 @@
 body {
-     a, a:hover; a:focus; a:active; {
-      text-decoration: none;
-      color: inherit;
- }
     
         display: grid;
         grid-template-columns: 2fr 2fr 1fr;
