@@ -27,6 +27,11 @@ font-size: 5rem;
 margin: 10px;
 text-align: center;}
 
+.quote {color: whitesmoke;
+        font-size: 3rem;
+        margin: 10px;
+        text-align: center;}
+
 .documents {color: whitesmoke;
 text-align: left;
 margin-left: 1rem}
