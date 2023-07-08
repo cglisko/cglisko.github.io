@@ -16,7 +16,7 @@ p {color: whitesmoke;
     text-align:left;
     padding-left: 3rem; 
     }
-.casimage {float: right; margin-left: 5.5rem; margin-right: 3rem; top: 30px;
+.casimage {float: right; margin-left: 5.5rem; margin-right: 3rem; margin-top: 7rem;
  box-shadow: 2px 4px 10px whitesmoke;}
 .title {color: whitesmoke;
     font-size: 6rem;
