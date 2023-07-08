@@ -18,17 +18,17 @@ p {color: whitesmoke;
     }
 .casimage {float: right; margin-left: 5rem; box-shadow: 2px 4px 10px whitesmoke;}
 .title {color: whitesmoke;
-    font-size: 7rem;
+    font-size: 6rem;
     margin: 10px;
     text-align: center;
 }
 .subtitle {color: whitesmoke;
-font-size: 5rem;
+font-size: 4rem;
 margin: 10px;
 text-align: center;}
 
 .quote {color: whitesmoke;
-        font-size: 3rem;
+        font-size: 2rem;
         margin: 10px;
         text-align: center;}
 
