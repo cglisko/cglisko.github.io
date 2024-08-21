@@ -7,14 +7,14 @@ body {
         max-width: 1200px;
         margin: 2rem auto;
 
-    background-color: ghostwhite; 
+    background-color: whitesmoke; 
 .forum-regular {
   font-family: "Forum", serif;
   font-weight: 300;
   font-style: normal;
 }
 
-header {grid-column: 1/4; color: whitesmoke; margin-left: 1rem;}
+header {grid-column: 1/4; color: lightslategray; margin-left: 1rem;}
 nav {grid-column: 1/4; color: whitesmoke; margin-left: 1rem;}
 main {grid-column: 1/4; margin-left: 1rem}
 p {color: lightslategray;
@@ -23,7 +23,7 @@ p {color: lightslategray;
     }
 .casimage {float: right; margin-left: 5.5rem; margin-right: 3rem; margin-top: 1rem;
  box-shadow: 2px 4px 10px whitesmoke;}
-.title {color: whitesmoke;
+.title {color: lightslategray;
     font-size: 6rem;
     margin: 10px;
     text-align: center;
