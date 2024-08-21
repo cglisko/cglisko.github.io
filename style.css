@@ -7,7 +7,7 @@ body {
         max-width: 1200px;
         margin: 2rem auto;
 
-    background-color: lightslategray; 
+    background-color: ghostwhite; 
 .forum-regular {
   font-family: "Forum", serif;
   font-weight: 300;
@@ -17,7 +17,7 @@ body {
 header {grid-column: 1/4; color: whitesmoke; margin-left: 1rem;}
 nav {grid-column: 1/4; color: whitesmoke; margin-left: 1rem;}
 main {grid-column: 1/4; margin-left: 1rem}
-p {color: whitesmoke;
+p {color: lightslategray;
     text-align:left;
     padding-left: 3rem; 
     }
@@ -28,7 +28,7 @@ p {color: whitesmoke;
     margin: 10px;
     text-align: center;
 }
-.subtitle {color: whitesmoke;
+.subtitle {color: lightslategray;
 font-size: 2rem;
 margin: 10px;
 text-align: center;}
@@ -38,11 +38,11 @@ text-align: center;}
         margin: 10px;
         text-align: center;}
 
-.documents {color: whitesmoke;
+.documents {color: lightslategray;
 text-align: left;
 margin-left: 3rem}
 
-.icons {color: whitesmoke;
+.icons {color: lightslategray;
 margin: 10px;
 text-align: left;
 margin-left: 3rem}
